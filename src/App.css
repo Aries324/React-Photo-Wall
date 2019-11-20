@@ -9,6 +9,6 @@ header{
   display:grid;
   grid-template-columns: auto auto auto auto;
   justify-items: center;
-   
+  gap: 40px 0px;
 }
 /* 7. Write CSS rules that ensure that no more than 4 photos appear on a row */
